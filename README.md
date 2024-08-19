@@ -1,7 +1,5 @@
 # Smart-Parking-System
 
-# Vehicle Parking System
-
 This project is an automated vehicle parking system using an ESP8266, sensors, and servo motors. It integrates with Firebase to track parking slot availability in real-time.
 
 ## Features
